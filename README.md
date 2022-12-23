@@ -39,7 +39,7 @@ was written primarily in HTML and CSS with a little bit of JavaScript.
 - Install the dependencies
 - Launch in browser (I use Live Server, available as extension is Virtual Studio Code)
 
-`git clone []`
+`git clone https://github.com/gmnoe/greg-bootstrap-nucamp.git`
 
 `npm install`
 
